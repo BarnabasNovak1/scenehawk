@@ -1,0 +1,37 @@
+{
+  "id": "the-lighthouse-2019",
+  "metadata": {
+    "title": "The Lighthouse",
+    "year": 2019,
+    "director": "Robert Eggers",
+    "genres": ["Horror", "Drama", "Fantasy"],
+    "runtime": 109,
+    "popularity": "cult",
+    "rating": 7.4
+  },
+  "themes": ["isolation", "madness", "masculinity", "power", "obsession", "guilt"],
+  "atmosphere": ["claustrophobic", "dread", "hallucinatory", "oppressive", "storm-lashed", "unsettling"],
+  "narrative": {
+    "pacing": "slow burn",
+    "structure": "two-hander descent into madness",
+    "storytelling": "visual-symbolic",
+    "dialogue": "dense, archaic monologues"
+  },
+  "visualStyle": {
+    "lighting": "high-contrast low-key",
+    "camera": "static, composed tableaux",
+    "color": "black and white",
+    "aspect": "1.19:1 nearly square",
+    "editing": "rhythmic, repetitive"
+  },
+  "techniques": ["practical effects", "expressionistic lighting", "sound design driven tension", "period-authentic dialogue"],
+  "jumpScares": "none",
+  "symbols": ["the light", "the gull", "mermaid", "Prometheus myth"],
+  "analysis": {
+    "themes": "Two keepers trapped on a rock become a study of isolation corroding identity — power struggles, buried guilt, and mythic obsession collapse the boundary between man and archetype.",
+    "atmosphere": "Relentlessly claustrophobic and dread-soaked; foghorns, storms, and hallucination build unease through texture rather than shocks.",
+    "narrative": "A slow-burn two-hander that escalates through ritual, drink, and dominance games into full psychological disintegration.",
+    "visual": "Shot on black-and-white stock in a near-square 1.19:1 frame with harsh expressionistic lighting — the image itself feels antique and airless.",
+    "characters": "Winslow and Wake are less individuals than opposing forces; their power dynamic drives the film's psychological and mythic readings."
+  }
+}

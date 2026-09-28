@@ -1,0 +1,37 @@
+{
+  "id": "picnic-at-hanging-rock-1975",
+  "metadata": {
+    "title": "Picnic at Hanging Rock",
+    "year": 1975,
+    "director": "Peter Weir",
+    "genres": ["Mystery", "Drama"],
+    "runtime": 115,
+    "popularity": "acclaimed",
+    "rating": 7.4
+  },
+  "themes": ["the unknowable", "repression", "nature", "loss", "innocence", "mystery"],
+  "atmosphere": ["dreamlike", "eerie", "enigmatic", "hazy", "unsettling", "pastoral"],
+  "narrative": {
+    "pacing": "languid, hypnotic",
+    "structure": "unresolved disappearance and its aftermath",
+    "storytelling": "atmospheric, withholding",
+    "dialogue": "genteel, restrained"
+  },
+  "visualStyle": {
+    "lighting": "hazy Australian summer light",
+    "camera": "dreamy dissolves, telephoto compression",
+    "color": "golden pastoral haze",
+    "composition": "landscape swallowing figures",
+    "editing": "languid, hypnotic dissolves"
+  },
+  "techniques": ["dream-haze cinematography", "pan-flute score", "unresolved mystery structure", "landscape as presence"],
+  "jumpScares": "none",
+  "symbols": ["the rock", "the stopped watches", "the white dresses", "the apple orchard"],
+  "analysis": {
+    "themes": "Schoolgirls vanish into an ancient rock formation on a Valentine's Day picnic — Victorian repression dissolving into a nature that neither explains nor apologizes.",
+    "atmosphere": "Golden-haze eeriness; the film is beautiful in a way that feels like a warning, and dread arrives through serenity.",
+    "narrative": "A mystery that refuses to be one — no culprit, no solution, only aftermath. The withholding is the meaning.",
+    "visual": "Hazy telephoto pastoral imagery makes the Australian bush feel sentient; few films make landscape this quietly menacing.",
+    "characters": "The vanished girls are idealized into myth; those left behind — the headmistress, the survivors — crack under not knowing."
+  }
+}

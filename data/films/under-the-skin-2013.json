@@ -1,0 +1,37 @@
+{
+  "id": "under-the-skin-2013",
+  "metadata": {
+    "title": "Under the Skin",
+    "year": 2013,
+    "director": "Jonathan Glazer",
+    "genres": ["Sci-Fi", "Horror", "Drama"],
+    "runtime": 108,
+    "popularity": "cult",
+    "rating": 6.3
+  },
+  "themes": ["alienation", "identity", "empathy awakening", "predation", "the human body", "isolation"],
+  "atmosphere": ["eerie", "cold", "unsettling", "hypnotic", "detached", "dreamlike"],
+  "narrative": {
+    "pacing": "slow, hypnotic",
+    "structure": "episodic predation giving way to dissolution",
+    "storytelling": "visual, almost wordless",
+    "dialogue": "sparse, partly improvised"
+  },
+  "visualStyle": {
+    "lighting": "overcast natural light, void-black interiors",
+    "camera": "hidden-camera observation, detached framing",
+    "color": "grey Scotland vs. pure black voids",
+    "composition": "alien POV detachment",
+    "editing": "drifting, elliptical"
+  },
+  "techniques": ["hidden-camera filming", "non-actor encounters", "abstract void sequences", "Mica Levi score"],
+  "jumpScares": "none",
+  "symbols": ["the black void", "the motorcycle", "the skin suit", "the ant"],
+  "analysis": {
+    "themes": "An alien predator harvesting men gradually develops something like empathy — the film watches humanity from outside until the outside starts to crack.",
+    "atmosphere": "Cold, hypnotic unease; Glasgow streets filmed like an alien survey, and void sequences of pure uncanny dread.",
+    "narrative": "Episodic hunts slowly give way to the creature's unraveling — minimal dialogue, maximum visual implication.",
+    "visual": "Hidden-camera documentary realism collides with abstract black-void imagery; few films look this genuinely extraterrestrial.",
+    "characters": "The protagonist is a consciousness wearing a body — her 'character arc' is the slow, fatal acquisition of human feeling."
+  }
+}

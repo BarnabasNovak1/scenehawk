@@ -1,0 +1,37 @@
+{
+  "id": "enemy-2013",
+  "metadata": {
+    "title": "Enemy",
+    "year": 2013,
+    "director": "Denis Villeneuve",
+    "genres": ["Thriller", "Mystery", "Drama"],
+    "runtime": 91,
+    "popularity": "cult",
+    "rating": 6.9
+  },
+  "themes": ["identity", "the double", "infidelity", "subconscious", "control", "repetition"],
+  "atmosphere": ["unsettling", "hazy", "dreamlike", "oppressive", "enigmatic"],
+  "narrative": {
+    "pacing": "slow, coiled",
+    "structure": "doppelgänger mystery as psychological puzzle",
+    "storytelling": "ambiguous, symbolic",
+    "dialogue": "sparse, loaded"
+  },
+  "visualStyle": {
+    "lighting": "jaundiced Toronto haze",
+    "camera": "creeping, surveillance-like",
+    "color": "sickly yellow monochrome wash",
+    "composition": "brutalist architecture, isolation",
+    "editing": "elliptical, dream-logic"
+  },
+  "techniques": ["single-color grading", "spider symbolism", "ambiguous structure", "double-role performance"],
+  "jumpScares": "minimal",
+  "symbols": ["the spiders", "the key", "the twins", "the lecture on repetition"],
+  "analysis": {
+    "themes": "A history professor meets his exact double and his life unspools — the double reads as the self he represses, and the spiders as the web of his own compulsions.",
+    "atmosphere": "Jaundiced, hazy unease; Toronto looks air-sick, and the film keeps you unsure whether you're watching events or a mind.",
+    "narrative": "A puzzle box that resists solution — is the double real, a split self, a metaphor? The final image answers nothing and everything.",
+    "visual": "Nicolas Bolduc's yellow-washed, smog-drowned photography turns a real city into a fever state.",
+    "characters": "Adam and Anthony are one psyche in two bodies — timid conformity and appetite — which is why only one can survive."
+  }
+}

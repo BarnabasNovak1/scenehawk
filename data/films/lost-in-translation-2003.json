@@ -1,0 +1,37 @@
+{
+  "id": "lost-in-translation-2003",
+  "metadata": {
+    "title": "Lost in Translation",
+    "year": 2003,
+    "director": "Sofia Coppola",
+    "genres": ["Drama", "Romance"],
+    "runtime": 102,
+    "popularity": "acclaimed",
+    "rating": 7.7
+  },
+  "themes": ["loneliness", "connection", "alienation", "insomnia", "transience", "marriage"],
+  "atmosphere": ["melancholic", "wistful", "intimate", "dreamlike", "lonely"],
+  "narrative": {
+    "pacing": "unhurried, drifting",
+    "structure": "brief encounter, episodic",
+    "storytelling": "mood-driven, understated",
+    "dialogue": "quiet, naturalistic"
+  },
+  "visualStyle": {
+    "lighting": "neon city glow, dim hotel interiors",
+    "camera": "observational, handheld intimacy",
+    "color": "Tokyo neon and hotel dusk",
+    "composition": "figures small against the city",
+    "editing": "gentle, elliptical"
+  },
+  "techniques": ["location-shot intimacy", "shoegaze score", "improvised feel", "unconsummated-romance restraint"],
+  "jumpScares": "none",
+  "symbols": ["the hotel window", "the whispered ending", "Tokyo lights"],
+  "analysis": {
+    "themes": "Two Americans adrift in a Tokyo hotel find in each other the only thing that makes the displacement bearable — loneliness rendered as romance that stays unspoken.",
+    "atmosphere": "Melancholic and wistful; neon insomnia, hotel-bar haze, and the strange intimacy of being lost together somewhere foreign.",
+    "narrative": "Almost plotless — days and nights of small encounters build toward a goodbye that matters more than any consummation could.",
+    "visual": "Coppola shoots Tokyo as beautiful indifference: glowing signage, crowds, and two small figures awake while the city hums.",
+    "characters": "Bob and Charlotte are defined by what's missing at home; the film trusts Bill Murray's stillness and Johansson's searching."
+  }
+}

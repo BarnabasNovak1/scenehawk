@@ -1,0 +1,37 @@
+{
+  "id": "there-will-be-blood-2007",
+  "metadata": {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "director": "Paul Thomas Anderson",
+    "genres": ["Drama", "Western"],
+    "runtime": 158,
+    "popularity": "acclaimed",
+    "rating": 8.2
+  },
+  "themes": ["capitalism", "ambition", "family", "faith", "misanthropy", "power"],
+  "atmosphere": ["brooding", "ominous", "vast", "corrosive", "tense"],
+  "narrative": {
+    "pacing": "measured, accumulating",
+    "structure": "rise-of-a-monster epic",
+    "storytelling": "operatic character study",
+    "dialogue": "declamatory, biblical cadences"
+  },
+  "visualStyle": {
+    "lighting": "oil-field firelight, dusty plains",
+    "camera": "muscular, observational epic",
+    "color": "earth browns, oil black, fire orange",
+    "composition": "landscape vs. lone figure",
+    "editing": "patient, dissonant-score driven"
+  },
+  "techniques": ["Jonny Greenwood dissonant score", "opening near-silent sequence", "oil-fire setpiece", "two-man ideological duel"],
+  "jumpScares": "none",
+  "symbols": ["the oil derrick fire", "the milkshake", "the bowling alley", "the false brother"],
+  "analysis": {
+    "themes": "A prospector becomes an oil baron and sheds every human attachment — capitalism's founding myth told as the manufacture of a monster.",
+    "atmosphere": "Ominous vastness; Greenwood's dissonant strings make even empty landscapes feel diseased.",
+    "narrative": "An epic ascent that is really a long subtraction — everything human is traded away until only appetite remains.",
+    "visual": "Robert Elswit's plains-and-firelight photography gives 1900s California the weight of a creation myth gone wrong.",
+    "characters": "Plainview is will personified; Eli Sunday is faith as rival business. Their duel is the century's argument."
+  }
+}

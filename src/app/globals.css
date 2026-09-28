@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: var(--font-playfair), Georgia, serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --color-ink: #0a0a0a;
+  --color-cream: #ece7df;
+  --color-faded: #8f8b82;
+  --color-accent: #e0632f;
+  --color-accent-hi: #ea7443;
+  --color-panel: #141315;
+  --color-line: #2a2825;
+}
+
+body {
+  background: var(--color-ink);
+  color: var(--color-cream);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: rgba(224, 99, 47, 0.35);
+}

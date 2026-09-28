@@ -1,0 +1,37 @@
+{
+  "id": "possum-2018",
+  "metadata": {
+    "title": "Possum",
+    "year": 2018,
+    "director": "Matthew Holness",
+    "genres": ["Horror", "Drama", "Mystery"],
+    "runtime": 85,
+    "popularity": "obscure",
+    "rating": 5.7
+  },
+  "themes": ["trauma", "guilt", "repression", "isolation", "abuse"],
+  "atmosphere": ["bleak", "oppressive", "dread", "unsettling", "desolate"],
+  "narrative": {
+    "pacing": "slow burn",
+    "structure": "psychological unravelling with buried reveal",
+    "storytelling": "minimal, visual, withholding",
+    "dialogue": "sparse"
+  },
+  "visualStyle": {
+    "lighting": "flat overcast English light, dim interiors",
+    "camera": "static, suffocating compositions",
+    "color": "drained browns and greys",
+    "composition": "empty marshland and decaying interiors",
+    "editing": "deliberate, elliptical"
+  },
+  "techniques": ["puppetry as psychological object", "sound design dread", "withheld exposition", "rural decay settings"],
+  "jumpScares": "minimal",
+  "symbols": ["the spider puppet", "the marshland", "the house", "fire"],
+  "analysis": {
+    "themes": "A disgraced puppeteer returns to his childhood home dragging a monstrous spider puppet — the film is trauma externalized, guilt crawling on eight legs.",
+    "atmosphere": "Utterly bleak and airless; the Norfolk marshland and rotting interiors create dread without a single conventional scare beat.",
+    "narrative": "Almost nothing is explained — the story is pieced together from fragments as the puppet, and what it stands for, becomes impossible to escape.",
+    "visual": "Drained color, static suffocating frames, and the genuinely disturbing puppet design make the imagery feel like recovered memory.",
+    "characters": "Philip is hollowed out by something the film withholds; his uncle Maurice is menace made mundane. Nearly a two-man chamber piece."
+  }
+}

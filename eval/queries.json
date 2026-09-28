@@ -1,0 +1,102 @@
+[
+  {
+    "id": "q01",
+    "category": "mood-driven",
+    "query": "I want a horror film that creates fear through atmosphere rather than jump scares"
+  },
+  {
+    "id": "q02",
+    "category": "mood-driven",
+    "query": "Something isolated and unsettling where the tension builds slowly without jump scares"
+  },
+  {
+    "id": "q03",
+    "category": "mood-driven",
+    "query": "I want something melancholic and visually beautiful about loneliness"
+  },
+  {
+    "id": "q04",
+    "category": "visual-driven",
+    "query": "Something with incredible cinematography and long takes, meditative pacing"
+  },
+  {
+    "id": "q05",
+    "category": "narrative-driven",
+    "query": "A movie with very slow pacing and minimal dialogue"
+  },
+  {
+    "id": "q06",
+    "category": "obscure-seeking",
+    "query": "Give me an obscure psychological horror film, a hidden gem I probably haven't seen"
+  },
+  {
+    "id": "q07",
+    "category": "obscure-seeking",
+    "query": "Find something unusual — not the obvious popular choices, something cult or lesser-known"
+  },
+  {
+    "id": "q08",
+    "category": "genre+constraint",
+    "query": "A sci-fi film that is slow, contemplative and philosophical rather than action-packed"
+  },
+  {
+    "id": "q09",
+    "category": "genre+constraint",
+    "query": "A thriller that is propulsive and tense but not gory"
+  },
+  {
+    "id": "q10",
+    "category": "theme-driven",
+    "query": "A film about grief and how people carry loss"
+  },
+  {
+    "id": "q11",
+    "category": "theme-driven",
+    "query": "Something about obsession and what it costs"
+  },
+  {
+    "id": "q12",
+    "category": "mood-driven",
+    "query": "I want something dreamlike and surreal, like a waking nightmare"
+  },
+  {
+    "id": "q13",
+    "category": "avoid-constraint",
+    "query": "Something romantic and tender but not sentimental"
+  },
+  {
+    "id": "q14",
+    "category": "narrative-driven",
+    "query": "A mystery that deliberately refuses to resolve — ambiguous ending, no clean answers"
+  },
+  {
+    "id": "q15",
+    "category": "visual-driven",
+    "query": "A black and white film with striking, expressionistic visuals"
+  },
+  {
+    "id": "q16",
+    "category": "mood-driven",
+    "query": "Something that makes a city feel lonely — neon nights and insomnia"
+  },
+  {
+    "id": "q17",
+    "category": "popular-seeking",
+    "query": "What are the essential acclaimed classics in this catalog I should watch first"
+  },
+  {
+    "id": "q18",
+    "category": "theme-driven",
+    "query": "A film about class and inequality with bite"
+  },
+  {
+    "id": "q19",
+    "category": "mixed",
+    "query": "Slow-burn psychological tension with beautiful cinematography, something like Tarkovsky but more accessible"
+  },
+  {
+    "id": "q20",
+    "category": "mood-driven",
+    "query": "Something hypnotic and trance-like with an incredible synth score"
+  }
+]

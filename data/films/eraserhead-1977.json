@@ -1,0 +1,37 @@
+{
+  "id": "eraserhead-1977",
+  "metadata": {
+    "title": "Eraserhead",
+    "year": 1977,
+    "director": "David Lynch",
+    "genres": ["Horror", "Fantasy"],
+    "runtime": 89,
+    "popularity": "cult",
+    "rating": 7.3
+  },
+  "themes": ["anxiety", "parenthood", "industrial alienation", "fear of domesticity", "dreams"],
+  "atmosphere": ["nightmarish", "unsettling", "oppressive", "surreal", "industrial"],
+  "narrative": {
+    "pacing": "slow, trance-like",
+    "structure": "dream logic, episodic",
+    "storytelling": "visual-symbolic, nearly wordless",
+    "dialogue": "sparse, awkward fragments"
+  },
+  "visualStyle": {
+    "lighting": "harsh high-contrast monochrome",
+    "camera": "static, staring compositions",
+    "color": "black and white",
+    "composition": "industrial decay tableaux",
+    "editing": "oneiric, associative"
+  },
+  "techniques": ["industrial soundscape", "practical creature effects", "black-and-white expressionism", "dream-logic editing"],
+  "jumpScares": "minimal",
+  "symbols": ["the baby", "the planet", "the lady in the radiator", "the pencil eraser"],
+  "analysis": {
+    "themes": "A man in an industrial wasteland faces monstrous fatherhood — anxiety about sex, domesticity, and responsibility rendered as waking nightmare.",
+    "atmosphere": "Perhaps cinema's purest nightmare texture: hiss, hum, and industrial drone under images that feel dreamed rather than staged.",
+    "narrative": "Story gives way to dream logic; events connect emotionally rather than causally.",
+    "visual": "Grainy high-contrast black and white, staring compositions, and industrial decay — a visual vocabulary Lynch never abandoned.",
+    "characters": "Henry is a passive vessel for dread; the film happens to him the way a nightmare happens to a sleeper."
+  }
+}

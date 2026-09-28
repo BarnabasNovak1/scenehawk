@@ -1,0 +1,37 @@
+{
+  "id": "nightcrawler-2014",
+  "metadata": {
+    "title": "Nightcrawler",
+    "year": 2014,
+    "director": "Dan Gilroy",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "runtime": 117,
+    "popularity": "popular",
+    "rating": 7.8
+  },
+  "themes": ["ambition", "media ethics", "capitalism", "sociopathy", "exploitation", "the American dream"],
+  "atmosphere": ["tense", "slick", "unnerving", "neon", "predatory"],
+  "narrative": {
+    "pacing": "propulsive",
+    "structure": "rise-of-a-predator character study",
+    "storytelling": "character-driven escalation",
+    "dialogue": "corporate-speak menace"
+  },
+  "visualStyle": {
+    "lighting": "LA night, neon and news-van glow",
+    "camera": "gliding night photography",
+    "color": "sodium orange and electric blue",
+    "composition": "city-grid predation",
+    "editing": "propulsive"
+  },
+  "techniques": ["night-LA photography", "corporate jargon as horror", "amoral protagonist arc", "escalating complicity"],
+  "jumpScares": "minimal",
+  "symbols": ["the camera", "the police scanner", "the red muscle car"],
+  "analysis": {
+    "themes": "A petty thief becomes a freelance crime videographer and turns out to be exactly what the market wants — the American success story as sociopath origin tale.",
+    "atmosphere": "Slick neon predation; LA at night becomes a hunting ground where the camera is the weapon.",
+    "narrative": "A rise story with no moral correction — Lou escalates because every institution rewards his escalation.",
+    "visual": "Gorgeous night-LA photography makes the ugliness seductive, which is the point.",
+    "characters": "Lou Bloom speaks entirely in self-help and business jargon — a monster assembled from LinkedIn posts and market logic."
+  }
+}

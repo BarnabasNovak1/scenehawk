@@ -1,0 +1,37 @@
+{
+  "id": "2001-a-space-odyssey-1968",
+  "metadata": {
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "director": "Stanley Kubrick",
+    "genres": ["Sci-Fi"],
+    "runtime": 149,
+    "popularity": "popular",
+    "rating": 8.3
+  },
+  "themes": ["evolution", "technology", "existential", "the unknown", "transcendence", "artificial intelligence"],
+  "atmosphere": ["awe-inspiring", "cold", "vast", "enigmatic", "contemplative"],
+  "narrative": {
+    "pacing": "very slow, monumental",
+    "structure": "episodic evolutionary leaps",
+    "storytelling": "visual, near-wordless",
+    "dialogue": "minimal, deliberately banal"
+  },
+  "visualStyle": {
+    "lighting": "clinical spacecraft light, cosmic voids",
+    "camera": "symmetrical, gliding precision",
+    "color": "whites and blacks vs. the Star Gate",
+    "composition": "rigorous symmetry, centrifuge sets",
+    "editing": "match cuts across millennia"
+  },
+  "techniques": ["front-projection", "rotating centrifuge set", "classical score as structure", "Star Gate slit-scan sequence"],
+  "jumpScares": "none",
+  "symbols": ["the monolith", "the bone-satellite match cut", "HAL's eye", "the starchild"],
+  "analysis": {
+    "themes": "From ape to starchild — the film treats evolution, tools, and transcendence as one continuous gesture, with the monolith as its unexplained catalyst.",
+    "atmosphere": "Cold cosmic awe; human chatter is deliberately banal against a universe of silence, scale, and Brahms-free wonder.",
+    "narrative": "Barely a narrative — four movements leaping millions of years, unified by image and music rather than plot.",
+    "visual": "Symmetrical precision, the rotating centrifuge, the bone-to-satellite match cut, and the Star Gate sequence redefined what cinema could depict.",
+    "characters": "HAL is the most human character on screen; Bowman's arc is literally beyond humanity by the end."
+  }
+}

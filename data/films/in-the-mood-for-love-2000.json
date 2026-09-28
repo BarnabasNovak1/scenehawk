@@ -1,0 +1,37 @@
+{
+  "id": "in-the-mood-for-love-2000",
+  "metadata": {
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "director": "Wong Kar-wai",
+    "genres": ["Drama", "Romance"],
+    "runtime": 98,
+    "popularity": "acclaimed",
+    "rating": 8.1
+  },
+  "themes": ["love", "restraint", "longing", "memory", "marriage", "loneliness"],
+  "atmosphere": ["wistful", "romantic", "melancholic", "intimate", "yearning"],
+  "narrative": {
+    "pacing": "slow, rhythmic",
+    "structure": "repeated encounters, elliptical time",
+    "storytelling": "visual, restrained, withholding",
+    "dialogue": "sparse, coded"
+  },
+  "visualStyle": {
+    "lighting": "dim corridors, lamplight, shadow",
+    "camera": "peeping framings, slow glides",
+    "color": "saturated reds and qipao patterns",
+    "composition": "frames within frames, cramped spaces",
+    "editing": "repetition, slow-motion motifs"
+  },
+  "techniques": ["step-printed slow motion", "frame-within-frame composition", "waltz score motif", "offscreen spouses"],
+  "jumpScares": "none",
+  "symbols": ["the noodles", "the wall at Angkor Wat", "the rain", "the cheongsam dresses"],
+  "analysis": {
+    "themes": "Two neighbors whose spouses are having an affair circle each other without ever acting — desire expressed entirely through restraint.",
+    "atmosphere": "Exquisite longing; rain, lamplight, and the same waltz make repetition feel like aching.",
+    "narrative": "Elliptical and repetitive by design — noodles bought, corridors crossed, a rehearsal of confessions never meant to be real.",
+    "visual": "Christopher Doyle's saturated, frame-within-frame photography traps the lovers visually the way propriety traps them emotionally.",
+    "characters": "Chow and Su exist mostly in glances and silences; the absent spouses we never see shape everything they refuse to do."
+  }
+}

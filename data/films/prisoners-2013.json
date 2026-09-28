@@ -1,0 +1,37 @@
+{
+  "id": "prisoners-2013",
+  "metadata": {
+    "title": "Prisoners",
+    "year": 2013,
+    "director": "Denis Villeneuve",
+    "genres": ["Thriller", "Crime", "Drama", "Mystery"],
+    "runtime": 153,
+    "popularity": "popular",
+    "rating": 8.2
+  },
+  "themes": ["morality", "obsession", "faith", "grief", "justice", "the limits of love"],
+  "atmosphere": ["bleak", "tense", "oppressive", "dread", "grim"],
+  "narrative": {
+    "pacing": "slow burn, coiled",
+    "structure": "dual investigation — detective procedural / father's descent",
+    "storytelling": "procedural, morally questioning",
+    "dialogue": "grounded, tense"
+  },
+  "visualStyle": {
+    "lighting": "grey Pennsylvania winter, sodium interiors",
+    "camera": "Deakins' composed, patient frames",
+    "color": "bleached greys and browns",
+    "composition": "rain-streaked, oppressive suburbia",
+    "editing": "methodical"
+  },
+  "techniques": ["Deakins cinematography", "moral ambiguity structure", "procedural realism", "whistle-motif dread"],
+  "jumpScares": "minimal",
+  "symbols": ["the maze", "the whistle", "the pit", "the RV"],
+  "analysis": {
+    "themes": "When two girls vanish, a father's certainty curdles into torture while a detective's procedure grinds slower than grief — the film asks what love justifies.",
+    "atmosphere": "Grey, wet, and merciless; dread built from Thanksgiving-gray skies and the feeling that every door hides a worse room.",
+    "narrative": "Two parallel hunts — Loki's methodical police work against Keller's spiraling vigilantism — converge on an answer that indicts certainty itself.",
+    "visual": "Roger Deakins turns suburban Pennsylvania into a washed-out purgatory of rain, bare trees, and concrete.",
+    "characters": "Keller's faith becomes his prison; Loki's tic-ridden patience is the film's moral counterweight."
+  }
+}

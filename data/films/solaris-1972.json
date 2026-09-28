@@ -1,0 +1,37 @@
+{
+  "id": "solaris-1972",
+  "metadata": {
+    "title": "Solaris",
+    "year": 1972,
+    "director": "Andrei Tarkovsky",
+    "genres": ["Sci-Fi", "Drama", "Mystery"],
+    "runtime": 169,
+    "popularity": "acclaimed",
+    "rating": 7.9
+  },
+  "themes": ["memory", "grief", "love", "guilt", "identity", "the limits of knowledge"],
+  "atmosphere": ["melancholic", "dreamlike", "contemplative", "mysterious", "wistful"],
+  "narrative": {
+    "pacing": "very slow, meditative",
+    "structure": "space-station chamber piece about an impossible visitor",
+    "storytelling": "philosophical, emotional",
+    "dialogue": "reflective, literary"
+  },
+  "visualStyle": {
+    "lighting": "soft interior light, cold station ambience",
+    "camera": "long takes, circular station compositions",
+    "color": "alternating color and monochrome",
+    "composition": "corridors, water, earth-memory imagery",
+    "editing": "very long takes"
+  },
+  "techniques": ["long takes", "color/monochrome shifts", "earth flashbacks", "levitation scene"],
+  "jumpScares": "none",
+  "symbols": ["the ocean", "Hari", "the pond", "the final island"],
+  "analysis": {
+    "themes": "A psychologist sent to a space station finds the planet's ocean materializing the crew's buried memories — his dead wife returns, and the film asks whether loving a copy is still love.",
+    "atmosphere": "Dreamlike melancholy; grief rendered as science fiction, with the station's emptiness echoing Kris's inner life.",
+    "narrative": "A slow meditation structured around the 'guests' — the sci-fi premise exists to interrogate memory, guilt, and what makes a person real.",
+    "visual": "Tarkovsky shifts between color and monochrome; the famous zero-gravity sequence is one of cinema's most quietly beautiful passages.",
+    "characters": "Hari's tragedy is becoming human enough to suffer; Kris must decide whether to love what the ocean made of his grief."
+  }
+}

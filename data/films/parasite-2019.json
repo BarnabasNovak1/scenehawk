@@ -1,0 +1,37 @@
+{
+  "id": "parasite-2019",
+  "metadata": {
+    "title": "Parasite",
+    "year": 2019,
+    "director": "Bong Joon-ho",
+    "genres": ["Thriller", "Drama", "Comedy", "Mystery"],
+    "runtime": 132,
+    "popularity": "popular",
+    "rating": 8.5
+  },
+  "themes": ["class", "inequality", "family", "deception", "capitalism", "upstairs/downstairs"],
+  "atmosphere": ["tense", "darkly comic", "escalating", "uneasy", "volatile"],
+  "narrative": {
+    "pacing": "propulsive, shifting gears",
+    "structure": "genre-shifting con game into tragedy",
+    "storytelling": "precision-engineered, layered",
+    "dialogue": "sharp, class-coded"
+  },
+  "visualStyle": {
+    "lighting": "crisp modernist interiors vs. semi-basement gloom",
+    "camera": "architectural, level-conscious framing",
+    "color": "clean house whites vs. street-level grime",
+    "composition": "vertical class geography",
+    "editing": "clockwork precision"
+  },
+  "techniques": ["architectural storytelling", "genre modulation", "staircase geography", "rain as class event"],
+  "jumpScares": "minimal",
+  "symbols": ["the scholar's rock", "the smell", "the basement", "stairs"],
+  "analysis": {
+    "themes": "A poor family cons its way into a rich household — class war staged as comedy that curdles, where everyone is someone's parasite.",
+    "atmosphere": "Volatile tonal blend — farce, thriller, and tragedy share scenes; the unease comes from never knowing which genre you're in.",
+    "narrative": "Perfectly engineered escalation from con-artist comedy to blood-soaked class tragedy; the mid-film pivot is a modern landmark.",
+    "visual": "Vertical geography is destiny — stairs, levels, and the semi-basement make class spatial and inescapable.",
+    "characters": "The Kims are brilliant survivors; the Parks are pleasant obliviousness — neither family is cartoonish, which is the horror."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "the-witch-2015",
+  "metadata": {
+    "title": "The Witch",
+    "year": 2015,
+    "director": "Robert Eggers",
+    "genres": ["Horror", "Drama", "Mystery"],
+    "runtime": 92,
+    "popularity": "acclaimed",
+    "rating": 7.0
+  },
+  "themes": ["faith", "isolation", "family", "paranoia", "guilt", "coming of age"],
+  "atmosphere": ["dread", "oppressive", "eerie", "bleak", "unsettling"],
+  "narrative": {
+    "pacing": "slow burn",
+    "structure": "family disintegration under suspicion",
+    "storytelling": "period-naturalistic",
+    "dialogue": "archaic, period-authentic"
+  },
+  "visualStyle": {
+    "lighting": "natural light, candlelit low-key",
+    "camera": "restrained, observational",
+    "color": "desaturated grey-green palette",
+    "composition": "stark wilderness framing",
+    "editing": "measured"
+  },
+  "techniques": ["natural lighting", "period detail", "atmospheric sound design", "ambiguous supernatural"],
+  "jumpScares": "minimal",
+  "symbols": ["Black Phillip", "the forest", "the apple", "the hare"],
+  "analysis": {
+    "themes": "A Puritan family exiled to the wilderness turns on itself — faith, guilt, and adolescent awakening make the supernatural almost secondary to the family's own fear.",
+    "atmosphere": "Oppressive dread built from grey skies, candlelight, and scripture; the horror feels earned and ancient rather than manufactured.",
+    "narrative": "Slow-burn escalation as each family member's piety becomes a vector for suspicion, culminating in collapse and dark liberation.",
+    "visual": "Natural-light cinematography and desaturated tones give 1630s New England a documentary bleakness.",
+    "characters": "Thomasin's arc from scapegoated daughter to self-possession is the film's dark spine; the parents embody faith curdled into paranoia."
+  }
+}

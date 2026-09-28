@@ -1,0 +1,37 @@
+{
+  "id": "spirited-away-2001",
+  "metadata": {
+    "title": "Spirited Away",
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "genres": ["Animation", "Fantasy", "Adventure"],
+    "runtime": 125,
+    "popularity": "popular",
+    "rating": 8.6
+  },
+  "themes": ["coming of age", "identity", "greed", "work", "memory", "nature"],
+  "atmosphere": ["wondrous", "dreamlike", "whimsical", "strange", "tender"],
+  "narrative": {
+    "pacing": "flowing, episodic",
+    "structure": "spirit-world coming-of-age quest",
+    "storytelling": "visual-fable, episodic",
+    "dialogue": "gentle, unforced"
+  },
+  "visualStyle": {
+    "lighting": "bathhouse lantern warmth, soft daylight",
+    "camera": "hand-drawn fluid movement",
+    "color": "saturated bathhouse reds and natural greens",
+    "composition": "dense world-building frames",
+    "editing": "flowing, unhurried"
+  },
+  "techniques": ["hand-drawn animation", "creature design abundance", "quiet 'ma' pauses", "fable logic"],
+  "jumpScares": "none",
+  "symbols": ["the bathhouse", "No-Face", "the train", "the name contract"],
+  "analysis": {
+    "themes": "A girl works in a bathhouse for spirits to free her transformed parents — labor, greed, and remembering your name as a child's induction into the adult world.",
+    "atmosphere": "Wonder tinged with strangeness; the spirit world is beautiful and dangerous in equal measure.",
+    "narrative": "Episodic encounters accumulate into maturity — Chihiro wins not by strength but by kindness and refusing to forget who she is.",
+    "visual": "Miyazaki's bathhouse is one of animation's great invented spaces; quiet 'ma' pauses let the film breathe between wonders.",
+    "characters": "Chihiro's ordinariness is the point — she survives through empathy. No-Face is appetite given a mask."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "no-country-for-old-men-2007",
+  "metadata": {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "director": "Joel & Ethan Coen",
+    "genres": ["Thriller", "Crime", "Western", "Drama"],
+    "runtime": 122,
+    "popularity": "popular",
+    "rating": 8.2
+  },
+  "themes": ["fate", "mortality", "violence", "morality", "the changing world", "chance"],
+  "atmosphere": ["tense", "bleak", "relentless", "desolate", "ominous"],
+  "narrative": {
+    "pacing": "measured, relentless",
+    "structure": "hunt narrative subverted by anticlimax",
+    "storytelling": "visual, laconic, literary",
+    "dialogue": "spare, regional precision"
+  },
+  "visualStyle": {
+    "lighting": "harsh Texas daylight, dim motel interiors",
+    "camera": "composed, patient Deakins frames",
+    "color": "desert ochre and night black",
+    "composition": "wide landscapes, tight threat",
+    "editing": "precise, unsentimental"
+  },
+  "techniques": ["near-scoreless tension", "sound design over music", "offscreen violence", "philosophical monologues"],
+  "jumpScares": "minimal",
+  "symbols": ["the coin toss", "the captive bolt pistol", "the money case", "the desert"],
+  "analysis": {
+    "themes": "A welder takes cartel money and is hunted by something closer to fate than a man — Sheriff Bell narrates his own obsolescence against a violence he can't comprehend.",
+    "atmosphere": "Relentless, scoreless tension; the Texas desert offers no comfort and the film offers less.",
+    "narrative": "A chase thriller that refuses its own climax — the decisive events happen offscreen, because the film's subject is resignation, not rescue.",
+    "visual": "Deakins' landscapes make men small; the Coens' framings turn motel rooms into killing geometry.",
+    "characters": "Chigurh is an ideology wearing a man; Bell is decency outlived; Moss is the fool who thought he could outrun consequence."
+  }
+}

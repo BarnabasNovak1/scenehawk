@@ -1,0 +1,37 @@
+{
+  "id": "zodiac-2007",
+  "metadata": {
+    "title": "Zodiac",
+    "year": 2007,
+    "director": "David Fincher",
+    "genres": ["Thriller", "Crime", "Mystery", "Drama"],
+    "runtime": 157,
+    "popularity": "popular",
+    "rating": 7.7
+  },
+  "themes": ["obsession", "the unknowable", "failure", "time", "truth", "compulsion"],
+  "atmosphere": ["obsessive", "tense", "methodical", "uneasy", "clinical"],
+  "narrative": {
+    "pacing": "slow burn, procedural",
+    "structure": "decades-spanning investigation that never resolves",
+    "storytelling": "procedural, detail-dense",
+    "dialogue": "information-rich, naturalistic"
+  },
+  "visualStyle": {
+    "lighting": "fluorescent offices, golden California noir",
+    "camera": "precise, locked-down digital frames",
+    "color": "muted 70s palette",
+    "composition": "top-down evidence shots, geometric",
+    "editing": "analytical, time-lapse transitions"
+  },
+  "techniques": ["procedural detail", "digital-era precision", "time-lapse storytelling", "unresolved mystery"],
+  "jumpScares": "minimal",
+  "symbols": ["the ciphers", "the basement scene", "the watch", "Lake Berryessa"],
+  "analysis": {
+    "themes": "The Zodiac killings destroy the men who can't stop looking — the film is about obsession and the unbearable possibility that some questions have no answer.",
+    "atmosphere": "Clinical unease; the horror isn't the murders but the open file, the cipher that never quite yields.",
+    "narrative": "A procedural that spans decades and pointedly refuses catharsis — obsession is the through-line, not the killer.",
+    "visual": "Fincher's digital precision turns evidence, handwriting, and geography into the film's real subject.",
+    "characters": "Graysmith's cartoonist becomes a sleuth because the puzzle eats him; Avery and Toschi are consumed at different speeds by the same unsolved file."
+  }
+}

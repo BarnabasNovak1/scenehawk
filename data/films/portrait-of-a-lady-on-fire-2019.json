@@ -1,0 +1,37 @@
+{
+  "id": "portrait-of-a-lady-on-fire-2019",
+  "metadata": {
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "director": "Céline Sciamma",
+    "genres": ["Drama", "Romance"],
+    "runtime": 122,
+    "popularity": "acclaimed",
+    "rating": 8.1
+  },
+  "themes": ["love", "the gaze", "memory", "desire", "art", "equality"],
+  "atmosphere": ["intimate", "romantic", "tender", "wistful", "hushed"],
+  "narrative": {
+    "pacing": "slow, deliberate",
+    "structure": "finite affair framed as memory",
+    "storytelling": "visual, restrained",
+    "dialogue": "precise, literary"
+  },
+  "visualStyle": {
+    "lighting": "candlelight, coastal daylight",
+    "camera": "still, painterly compositions",
+    "color": "windy greys and candlelit amber",
+    "composition": "tableaux evoking 18th-century portraiture",
+    "editing": "measured, near-scoreless"
+  },
+  "techniques": ["near-scoreless intimacy", "female-gaze framing", "candlelight photography", "painting-in-progress narrative"],
+  "jumpScares": "none",
+  "symbols": ["the portrait", "the fire", "page 28", "Orpheus and Eurydice"],
+  "analysis": {
+    "themes": "A painter hired to secretly portrait a reluctant bride falls in love with her subject — the film treats looking itself as the first act of love and memory as the last.",
+    "atmosphere": "Hushed, candlelit intimacy; with almost no score, every glance and footstep becomes charged.",
+    "narrative": "A finite island of time — the affair is framed from the start as memory, so every scene carries its own ending.",
+    "visual": "Painterly tableaux and candlelight photography that makes the film feel painted rather than shot; the female gaze is formal, not just thematic.",
+    "characters": "Marianne and Héloïse's romance is built on looking and being seen — the servants' parallel storyline widens the film's quiet radicalism."
+  }
+}

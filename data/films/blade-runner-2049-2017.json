@@ -1,0 +1,37 @@
+{
+  "id": "blade-runner-2049-2017",
+  "metadata": {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "genres": ["Sci-Fi", "Drama", "Mystery"],
+    "runtime": 164,
+    "popularity": "popular",
+    "rating": 8.0
+  },
+  "themes": ["identity", "memory", "what makes us human", "isolation", "soul", "purpose"],
+  "atmosphere": ["melancholic", "vast", "lonely", "contemplative", "bleak", "beautiful"],
+  "narrative": {
+    "pacing": "slow, deliberate",
+    "structure": "detective investigation into self",
+    "storytelling": "visual, patient",
+    "dialogue": "spare, weighted"
+  },
+  "visualStyle": {
+    "lighting": "Deakins' sculpted fog, amber dust",
+    "camera": "composed, monumental frames",
+    "color": "orange wastelands, grey-blue city",
+    "composition": "vast scale vs. solitary figure",
+    "editing": "unhurried"
+  },
+  "techniques": ["Deakins cinematography", "scale-driven world-building", "practical-miniature feel", "soundscape immersion"],
+  "jumpScares": "none",
+  "symbols": ["the wooden horse", "the snow", "the baseline test", "the giant Joi ad"],
+  "analysis": {
+    "themes": "A replicant hunting replicants discovers he may be the child of a miracle — then learns he's ordinary, and chooses meaning anyway. The self as something made, then chosen.",
+    "atmosphere": "Monumental loneliness; the world is beautiful and dying, and K moves through it like a ghost hoping to be real.",
+    "narrative": "A detective story where the final answer is 'not you' — the film's courage is denying its protagonist the destiny the genre promised him.",
+    "visual": "Deakins' fog-drenched oranges and concrete enormity make this the decade's most photographed film; every frame is engineered awe.",
+    "characters": "K's relationship with holographic Joi is the film's ache — artificial beings loving artificial beings while asking what the difference is."
+  }
+}

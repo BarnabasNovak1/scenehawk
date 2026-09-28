@@ -1,0 +1,37 @@
+{
+  "id": "stalker-1979",
+  "metadata": {
+    "title": "Stalker",
+    "year": 1979,
+    "director": "Andrei Tarkovsky",
+    "genres": ["Sci-Fi", "Drama"],
+    "runtime": 162,
+    "popularity": "acclaimed",
+    "rating": 8.1
+  },
+  "themes": ["faith", "desire", "existential", "the search for meaning", "disillusionment", "nature"],
+  "atmosphere": ["meditative", "hypnotic", "melancholic", "mysterious", "contemplative"],
+  "narrative": {
+    "pacing": "extremely slow, meditative",
+    "structure": "journey-quest as philosophical pilgrimage",
+    "storytelling": "visual-poetic, philosophical dialogue",
+    "dialogue": "long philosophical exchanges"
+  },
+  "visualStyle": {
+    "lighting": "diffused, sepia and muted industrial light",
+    "camera": "long takes, slow tracking through water and ruin",
+    "color": "sepia monochrome outside, color inside the Zone",
+    "composition": "ruins, water, and overgrowth",
+    "editing": "very long takes"
+  },
+  "techniques": ["extreme long takes", "sepia/color contrast", "ambient soundscapes", "landscape as inner state"],
+  "jumpScares": "none",
+  "symbols": ["the Zone", "the Room", "water", "the dog"],
+  "analysis": {
+    "themes": "A guide leads a Writer and a Professor into the Zone, where a Room grants your innermost desire — the film asks whether people actually want what they believe they want.",
+    "atmosphere": "Hypnotic and melancholic; the Zone feels sacred and indifferent at once, conjured entirely from ruined industry and reclaiming nature.",
+    "narrative": "The journey is nearly stationary philosophically — three men argue their way toward a Room none dares enter. Movement without progress is the point.",
+    "visual": "Sepia outside, muted color inside; Tarkovsky's long tracking shots through water-filled ruins are among cinema's most imitated images.",
+    "characters": "The Stalker believes, the Writer doubts, the Professor calculates — three responses to the possibility of grace."
+  }
+}

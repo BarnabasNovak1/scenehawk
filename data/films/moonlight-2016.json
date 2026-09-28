@@ -1,0 +1,37 @@
+{
+  "id": "moonlight-2016",
+  "metadata": {
+    "title": "Moonlight",
+    "year": 2016,
+    "director": "Barry Jenkins",
+    "genres": ["Drama"],
+    "runtime": 111,
+    "popularity": "acclaimed",
+    "rating": 7.4
+  },
+  "themes": ["identity", "masculinity", "coming of age", "sexuality", "vulnerability", "connection"],
+  "atmosphere": ["tender", "intimate", "melancholic", "dreamlike", "quiet"],
+  "narrative": {
+    "pacing": "unhurried, three movements",
+    "structure": "triptych — childhood, adolescence, adulthood",
+    "storytelling": "visual-emotional, elliptical",
+    "dialogue": "spare, weighted silences"
+  },
+  "visualStyle": {
+    "lighting": "Florida light, blue moonlight interiors",
+    "camera": "intimate close-ups, circling movements",
+    "color": "rich saturated skin tones and blue",
+    "composition": "faces held close, ocean expanses",
+    "editing": "three-part elliptical"
+  },
+  "techniques": ["triptych structure", "three-actor single character", "color-driven emotion", "withheld interiority"],
+  "jumpScares": "none",
+  "symbols": ["the ocean", "moonlight on skin", "the kitchen table", "the car"],
+  "analysis": {
+    "themes": "One man's life in three chapters — the performance of masculinity built to survive Miami's streets slowly suffocates the tenderness beneath it.",
+    "atmosphere": "Tender and melancholic; the film holds its character with a gentleness the world around him never does.",
+    "narrative": "Three ages, three actors, one consciousness — the gaps between chapters carry the unlived years.",
+    "visual": "James Laxton's saturated, blue-tinged photography makes skin luminous — 'in moonlight, black boys look blue.'",
+    "characters": "Chiron barely speaks across the whole film; the camera does the interiority. Juan and Teresa are the warmth he builds his armor against losing."
+  }
+}

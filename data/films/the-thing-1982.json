@@ -1,0 +1,37 @@
+{
+  "id": "the-thing-1982",
+  "metadata": {
+    "title": "The Thing",
+    "year": 1982,
+    "director": "John Carpenter",
+    "genres": ["Horror", "Sci-Fi", "Mystery"],
+    "runtime": 109,
+    "popularity": "popular",
+    "rating": 8.2
+  },
+  "themes": ["paranoia", "isolation", "trust", "identity", "survival"],
+  "atmosphere": ["paranoid", "claustrophobic", "dread", "tense", "bleak"],
+  "narrative": {
+    "pacing": "slow build, escalating",
+    "structure": "trapped-group suspicion chamber piece",
+    "storytelling": "ensemble-driven, mystery structure",
+    "dialogue": "terse, functional"
+  },
+  "visualStyle": {
+    "lighting": "cold blue exteriors, warm claustrophobic interiors",
+    "camera": "anamorphic widescreen isolation",
+    "color": "ice blue vs. blood and fire",
+    "composition": "wide frames emphasizing empty space",
+    "editing": "tight, escalating"
+  },
+  "techniques": ["practical creature effects", "ensemble staging", "widescreen tension", "ambiguous ending"],
+  "jumpScares": "moderate",
+  "symbols": ["the blood test", "the chess computer", "the antarctic void"],
+  "analysis": {
+    "themes": "An Antarctic crew meets a creature that imitates them perfectly — the monster is really paranoia itself, dissolving trust until the group destroys itself.",
+    "atmosphere": "Freezing isolation and mounting suspicion; the empty widescreen frames make every character look alone even together.",
+    "narrative": "A chamber piece of accusation and testing that escalates from unease to open warfare — who is human becomes unanswerable.",
+    "visual": "Dean Cundey's widescreen photography uses negative space brilliantly; Bottin's practical effects remain the genre benchmark.",
+    "characters": "MacReady leads not by heroism but by ruthlessness — survival demands becoming as suspicious as the enemy."
+  }
+}

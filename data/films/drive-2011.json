@@ -1,0 +1,37 @@
+{
+  "id": "drive-2011",
+  "metadata": {
+    "title": "Drive",
+    "year": 2011,
+    "director": "Nicolas Winding Refn",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtime": 100,
+    "popularity": "popular",
+    "rating": 7.8
+  },
+  "themes": ["identity", "violence", "love", "myth-making", "isolation", "morality"],
+  "atmosphere": ["cool", "tense", "neon", "dreamlike", "brooding", "violent"],
+  "narrative": {
+    "pacing": "measured with sudden violence",
+    "structure": "fable-like criminal fairy tale",
+    "storytelling": "visual, archetypal",
+    "dialogue": "minimal, laconic"
+  },
+  "visualStyle": {
+    "lighting": "neon and sodium-vapor night",
+    "camera": "controlled, glossy stillness",
+    "color": "pink titles, amber night LA",
+    "composition": "graphic, poster-like frames",
+    "editing": "slow burn, sharp eruptions"
+  },
+  "techniques": ["synth score as atmosphere", "extreme tonal shifts", "archetypal characterization", "ultraviolent punctuation"],
+  "jumpScares": "minimal",
+  "symbols": ["the scorpion jacket", "the car", "the elevator kiss", "the hammer"],
+  "analysis": {
+    "themes": "A stunt driver moonlighting as a getaway wheelman becomes a fairy-tale knight whose armor is a scorpion jacket — romance and brutality share the same stillness.",
+    "atmosphere": "Neon cool stretched taut; the film's dreamlike calm makes its sudden violence land like ruptures in a trance.",
+    "narrative": "A deliberately simple fable — driver, girl, debt — executed with archetypal confidence; the story is an excuse for myth.",
+    "visual": "Graphic, glossy compositions and synth-soaked night photography made 'neon noir' an aesthetic category.",
+    "characters": "The Driver is a man of maybe fifty lines — a blank archetype onto which tenderness and psychopathy are projected equally."
+  }
+}

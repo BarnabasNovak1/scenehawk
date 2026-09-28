@@ -1,0 +1,37 @@
+{
+  "id": "alien-1979",
+  "metadata": {
+    "title": "Alien",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "genres": ["Horror", "Sci-Fi"],
+    "runtime": 117,
+    "popularity": "popular",
+    "rating": 8.5
+  },
+  "themes": ["survival", "isolation", "corporate exploitation", "the unknown", "body horror"],
+  "atmosphere": ["claustrophobic", "dread", "tense", "ominous", "industrial"],
+  "narrative": {
+    "pacing": "slow build, then relentless",
+    "structure": "trapped-crew elimination",
+    "storytelling": "visual, economical",
+    "dialogue": "functional, working-class naturalism"
+  },
+  "visualStyle": {
+    "lighting": "industrial low-key, strobing emergency light",
+    "camera": "patient prowling movements",
+    "color": "cold greys, steam and shadow",
+    "composition": "lived-in production design",
+    "editing": "slow early, accelerating"
+  },
+  "techniques": ["practical creature effects", "production design immersion", "sound design tension", "withheld creature reveals"],
+  "jumpScares": "moderate",
+  "symbols": ["the creature lifecycle", "Mother", "the ship as body"],
+  "analysis": {
+    "themes": "Truckers in space meet an organism that treats them as resources — corporate expendability and bodily violation under the survival horror.",
+    "atmosphere": "Industrial claustrophobia: dripping pipes, steam, silence, and a ship that feels more hostile than the vacuum outside.",
+    "narrative": "An unhurried first act makes the ship and crew real before the creature begins its methodical elimination.",
+    "visual": "Giger's biomechanical design plus lived-in, low-key industrial photography created the defining look of space horror.",
+    "characters": "Ripley emerges as the genre's defining survivor precisely because the crew around her feels like ordinary workers, not heroes."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "annihilation-2018",
+  "metadata": {
+    "title": "Annihilation",
+    "year": 2018,
+    "director": "Alex Garland",
+    "genres": ["Sci-Fi", "Horror", "Mystery"],
+    "runtime": 115,
+    "popularity": "cult",
+    "rating": 6.8
+  },
+  "themes": ["self-destruction", "transformation", "grief", "identity", "nature", "change"],
+  "atmosphere": ["eerie", "dreamlike", "unsettling", "beautiful", "alien"],
+  "narrative": {
+    "pacing": "measured, escalating strangeness",
+    "structure": "expedition into the unknown, flashback-framed",
+    "storytelling": "visual-ambiguous",
+    "dialogue": "scientific, clipped"
+  },
+  "visualStyle": {
+    "lighting": "iridescent shimmer, swamp light",
+    "camera": "patient, painterly",
+    "color": "prismatic refractions, fungal bloom",
+    "composition": "nature mutating into abstraction",
+    "editing": "hypnotic"
+  },
+  "techniques": ["practical+digital creature design", "refracted-light imagery", "ambiguous ending", "sound design as score"],
+  "jumpScares": "moderate",
+  "symbols": ["the Shimmer", "the lighthouse", "the bear scream", "the dance"],
+  "analysis": {
+    "themes": "An expedition into a zone where DNA refracts like light — the film reads cancer, grief, and self-destruction as facets of the same compulsion to change.",
+    "atmosphere": "Beautiful wrongness; the Shimmer is gorgeous precisely where it should horrify, and that mismatch is the dread.",
+    "narrative": "Five damaged women enter a place that unmakes things; the ending offers a mirror instead of an answer.",
+    "visual": "Prismatic mutations — floral antlers, screaming bears, crystalline trees — make biology uncanny without a single cheap scare.",
+    "characters": "Each member of the expedition is self-destructive in her own way; the Shimmer doesn't kill them, it obliges them."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hereditary-2018",
+  "metadata": {
+    "title": "Hereditary",
+    "year": 2018,
+    "director": "Ari Aster",
+    "genres": ["Horror", "Drama", "Mystery"],
+    "runtime": 127,
+    "popularity": "popular",
+    "rating": 7.3
+  },
+  "themes": ["grief", "family", "trauma", "fate", "mental illness", "inheritance"],
+  "atmosphere": ["dread", "devastating", "oppressive", "unsettling", "claustrophobic"],
+  "narrative": {
+    "pacing": "slow burn with violent spikes",
+    "structure": "grief drama mutating into occult horror",
+    "storytelling": "character-driven, gradually revealed design",
+    "dialogue": "naturalistic, raw confrontations"
+  },
+  "visualStyle": {
+    "lighting": "warm domestic light turned sickly",
+    "camera": "controlled dollhouse-like framing",
+    "color": "earthy tones drained over time",
+    "composition": "miniature-model visual motif",
+    "editing": "deliberate with sudden ruptures"
+  },
+  "techniques": ["miniature-model motifs", "dollhouse framing", "sound design dread", "subverted horror structure"],
+  "jumpScares": "moderate",
+  "symbols": ["the miniatures", "the attic", "the sigil", "decapitation motif"],
+  "analysis": {
+    "themes": "A family tragedy becomes an excavation of grief and inherited damage — the occult plot literalizes the idea that some things are passed down whether you want them or not.",
+    "atmosphere": "Suffocating dread that grows out of real emotional devastation; the horror works because the family pain underneath it is genuine.",
+    "narrative": "Begins as an unflinching grief drama, then slowly reveals its architecture as something older and designed — the family was never in control.",
+    "visual": "Miniature-model compositions and dollhouse framing make the house itself feel like a diorama the family is trapped inside.",
+    "characters": "Annie's breakdown anchors the film; each family member carries grief differently, which the cult design exploits."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "the-dark-knight-2008",
+  "metadata": {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "runtime": 152,
+    "popularity": "popular",
+    "rating": 9.0
+  },
+  "themes": ["chaos vs order", "morality", "heroism", "escalation", "symbolism of symbols", "corruption"],
+  "atmosphere": ["tense", "operatic", "urban", "escalating", "grim"],
+  "narrative": {
+    "pacing": "propulsive",
+    "structure": "crime saga with moral test chambers",
+    "storytelling": "plot-driven, thematic setpieces",
+    "dialogue": "quotable, ideological duels"
+  },
+  "visualStyle": {
+    "lighting": "Chicago urban steel and night",
+    "camera": "IMAX-scale, kinetic precision",
+    "color": "steel blues and concrete",
+    "composition": "architectural, city-scale",
+    "editing": "relentless cross-cutting"
+  },
+  "techniques": ["IMAX setpieces", "practical stunt spectacle", "moral dilemma setpieces", "cross-cut tension"],
+  "jumpScares": "minimal",
+  "symbols": ["the ferry dilemma", "the burning money", "the bat-symbol", "Two-Face's coin"],
+  "analysis": {
+    "themes": "Order versus chaos staged as a city-sized experiment — the Joker isn't a villain so much as an argument that civilization is a thin fiction.",
+    "atmosphere": "Operatic urban tension; a superhero film that feels like a 70s crime epic in bulk and tone.",
+    "narrative": "Propulsive moral engineering — every setpiece is a test with a terrible answer, and escalation never stops.",
+    "visual": "Nolan's IMAX-scale Chicago replaces comic-book stylization with crime-saga concrete.",
+    "characters": "Ledger's Joker is an agent of pure hypothesis; Dent's fall is the film's true tragedy; Batman's heroism is choosing to be hated."
+  }
+}
